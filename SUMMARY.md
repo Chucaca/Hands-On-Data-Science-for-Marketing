@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hands-On Data Science for Marketing](README.md)
+* [Data Science for Marketing](README.md)
 
 ## Clustering Techniques
 
