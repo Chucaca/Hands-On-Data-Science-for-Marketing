@@ -2,6 +2,8 @@
 
 ### Giới thiệu
 
+Machine learning và Optimization có quan hệ mật thiết với nhau. Trong optimization, Convex Optimization là quan trọng nhất. Một vài toán là convex optimization nếu hàm mục tiêu là convex và tập hợp các điểm thỏa mãn các điều kiện ràng buộc là 1 convex set.
+
 Trong toán tối ưu, một bài toán thường được viết dưới dạng:
 
 $$
@@ -82,9 +84,43 @@ Hai tập hợp được gọi là linearly separable nếu các convex hulls c�
 
 ## Convex functions
 
-### Định nghĩ
+### Định nghĩa
 
-### a
+Một hàm số được gọi là lồi nếu tập xác định của nó là một tập lồi và nếu nối hai điểm bất kỳ trên đồ thị hàm số đó được 1 đoạn thằng nằm về phía trên hoặc nằm trên đồ thị
+
+$$
+f(θx+(1-θ)y) <= θf(x)+(1-θ)f(y)
+$$
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+**Strictly convex function** \(hàm lồi mạnh\) nếu tập xác định là một tập lồi và
+
+$$
+f(θx+(1-θ)y) < θf(x)+(1-θ)f(y)
+$$
+
+### Sublevel Sets
+
+α - sublevel sets là tập hợp các điểm trong tập xác định của hàm số mà tại đó, hàm số đạt giá trị nhỏ hơn hoặc bằng α
+
+nếu 1 hàm số là lồi thì mọi α - sublevel sets của nó là lồi. Ngược lại chưa chắc đã đúng
+
+### Kiểm tra tính chất lồi dựa vào đạo hàm
+
+* một hàm số là lồi nếu đường mặt tiếp tuyến tại một điể bất kỳ trên đồ thị mặt của hàm số đó nằm dưới đồ thị mặt đó.
+
+## Bài toán tối ưu hóa
+
+Mục tiêu: tối ưu hóa marketng budget và phân bổ quỹ hiệu quả để đạt được ROI cao nhất.
+
+Output của model Marketing Mix Modeling, response curves show estimated cause and effect relationship between your various marketing activities and business performance.
+
+[https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) 
+
+
+
+### 
 
 
 
