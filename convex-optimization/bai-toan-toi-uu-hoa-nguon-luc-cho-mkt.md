@@ -116,7 +116,13 @@ Mục tiêu: tối ưu hóa marketng budget và phân bổ quỹ hiệu quả đ
 
 Output của model Marketing Mix Modeling, response curves show estimated cause and effect relationship between your various marketing activities and business performance.
 
-[https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) 
+{% embed url="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf" %}
+
+{% embed url="https://github.com/sibylhe/mmm\_stan" %}
+
+{% embed url="https://towardsdatascience.com/python-stan-implementation-of-multiplicative-marketing-mix-model-with-deep-dive-into-adstock-a7320865b334" %}
+
+[https://medium.com/analytics-vidhya/marketing-mix-model-guide-with-dataset-using-python-r-and-excel-4e319be47b4](https://medium.com/analytics-vidhya/marketing-mix-model-guide-with-dataset-using-python-r-and-excel-4e319be47b4)
 
 
 
