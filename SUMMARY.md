@@ -10,5 +10,6 @@
 ---
 
 * [Convex Optimization](convex-optimization/README.md)
+  * [Adstock](convex-optimization/adstock.md)
   * [Bài toán tối ưu hóa nguồn lực cho MKT](convex-optimization/bai-toan-toi-uu-hoa-nguon-luc-cho-mkt.md)
 
