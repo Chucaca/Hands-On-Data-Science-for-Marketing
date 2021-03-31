@@ -5,7 +5,7 @@
 ## Clustering Techniques
 
 * [Clustering mixed datasets](clustering-techniques/k-means.md)
-* [Untitled](clustering-techniques/untitled.md)
+* [Thuật toán đơn giản cho các vấn đề về MKT](clustering-techniques/untitled.md)
 
 ---
 
